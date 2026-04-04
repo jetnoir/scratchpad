@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'Scratchpad' in project 'Scratchpad' (no dependencies)

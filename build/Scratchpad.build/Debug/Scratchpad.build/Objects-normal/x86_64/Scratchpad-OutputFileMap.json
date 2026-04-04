@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/Scratchpad-primary.dia",
+    "emit-module-dependencies" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/Scratchpad-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/Scratchpad-primary-emit-module.dia",
+    "pch" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/Scratchpad-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/Scratchpad-primary.swiftdeps"
+  },
+  "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/AppDelegate.swift" : {
+    "const-values" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/AppDelegate.dia",
+    "index-unit-output-path" : "/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/HotkeyManager.swift" : {
+    "const-values" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/HotkeyManager.swiftconstvalues",
+    "dependencies" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/HotkeyManager.d",
+    "diagnostics" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/HotkeyManager.dia",
+    "index-unit-output-path" : "/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/HotkeyManager.o",
+    "llvm-bc" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/HotkeyManager.bc",
+    "object" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/HotkeyManager.o",
+    "swift-dependencies" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/HotkeyManager.swiftdeps",
+    "swiftmodule" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/HotkeyManager~partial.swiftmodule"
+  },
+  "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/PlainTextView.swift" : {
+    "const-values" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/PlainTextView.swiftconstvalues",
+    "dependencies" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/PlainTextView.d",
+    "diagnostics" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/PlainTextView.dia",
+    "index-unit-output-path" : "/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/PlainTextView.o",
+    "llvm-bc" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/PlainTextView.bc",
+    "object" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/PlainTextView.o",
+    "swift-dependencies" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/PlainTextView.swiftdeps",
+    "swiftmodule" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/PlainTextView~partial.swiftmodule"
+  },
+  "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/StorageManager.swift" : {
+    "const-values" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/StorageManager.swiftconstvalues",
+    "dependencies" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/StorageManager.d",
+    "diagnostics" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/StorageManager.dia",
+    "index-unit-output-path" : "/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/StorageManager.o",
+    "llvm-bc" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/StorageManager.bc",
+    "object" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/StorageManager.o",
+    "swift-dependencies" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/StorageManager.swiftdeps",
+    "swiftmodule" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/StorageManager~partial.swiftmodule"
+  },
+  "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/WindowManager.swift" : {
+    "const-values" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/WindowManager.swiftconstvalues",
+    "dependencies" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/WindowManager.d",
+    "diagnostics" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/WindowManager.dia",
+    "index-unit-output-path" : "/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/WindowManager.o",
+    "llvm-bc" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/WindowManager.bc",
+    "object" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/WindowManager.o",
+    "swift-dependencies" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/WindowManager.swiftdeps",
+    "swiftmodule" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/WindowManager~partial.swiftmodule"
+  },
+  "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/main.swift" : {
+    "const-values" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/main.swiftconstvalues",
+    "dependencies" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/main.d",
+    "diagnostics" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/main.dia",
+    "index-unit-output-path" : "/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/main.o",
+    "llvm-bc" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/main.bc",
+    "object" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/main.o",
+    "swift-dependencies" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/main.swiftdeps",
+    "swiftmodule" : "/Users/stuart/.gemini/antigravity/scratch/Scratchpad/build/Scratchpad.build/Debug/Scratchpad.build/Objects-normal/x86_64/main~partial.swiftmodule"
+  }
+}

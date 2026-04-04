@@ -1,0 +1,39 @@
+# © 2026 Stuart Thomas (stuart.thomas@mac.com)
+# Licensed under MIT License
+# Copyright, Designs and Patents Act 1988
+
+name: Scratchpad
+options:
+  bundleIdPrefix: com.example
+targets:
+  Scratchpad:
+    type: application
+    platform: macOS
+    deploymentTarget: "14.0"
+    sources:
+      - main.swift
+      - AppDelegate.swift
+      - HotkeyManager.swift
+      - PlainTextView.swift
+      - StorageManager.swift
+      - WindowManager.swift
+      - Assets.xcassets
+    entitlements:
+      path: Scratchpad.entitlements
+    settings:
+      base:
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        GENERATE_INFOPLIST_FILE: "YES"
+        INFOPLIST_KEY_LSUIElement: "YES"
+        SWIFT_VERSION: 5.0
+        CODE_SIGN_IDENTITY: "-"
+        CODE_SIGN_STYLE: Automatic
+        CODE_SIGN_INJECT_BASE_ENTITLEMENTS: "YES"
+
+schemes:
+  Scratchpad:
+    build:
+      targets:
+        Scratchpad: all
+    run:
+      config: Debug
