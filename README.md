@@ -53,7 +53,7 @@ That's it. No setup. No accounts. No friction.
 └─────────────────────────────────┘
 ```
 
-391 lines of Swift. Zero dependencies. Zero frameworks beyond AppKit.
+462 lines of Swift. Zero dependencies. Zero frameworks beyond AppKit.
 
 ## System requirements
 

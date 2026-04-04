@@ -32,7 +32,7 @@ Scratchpad is a menu-bar macOS app that provides a persistent, always-available 
 - **Zero friction** — One keystroke to open, Escape to close
 - **Local first** — No cloud, no network, no accounts
 - **Plain text only** — All paste formatting is stripped (like Notepad)
-- **Minimal** — 391 lines of Swift, zero dependencies
+- **Minimal** — 462 lines of Swift, zero dependencies
 - **Trustworthy** — No analytics, no tracking, no hidden features
 
 ---
