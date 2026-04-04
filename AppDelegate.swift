@@ -1,6 +1,17 @@
-// © 2026 Stuart Thomas (stuart.thomas@mac.com)
-// Licensed under MIT License
-// Copyright, Designs and Patents Act 1988
+//
+// Scratchpad for macOS
+// Copyright (C) 2026 Stuart Thomas <stuart.thomas@mac.com>
+// Whitby, North Yorkshire, England
+//
+// SPDX-License-Identifier: AGPL-3.0-or-later
+//
+// Free for open-source use under AGPL v3.
+// Commercial licence: stuart.thomas@mac.com
+//
+// Moral rights asserted under ss.77 and 80 CDPA 1988.
+// Governing law: England and Wales.
+//
+
 
 import Cocoa
 import SwiftUI
@@ -191,7 +202,9 @@ class AppDelegate: NSObject, NSApplicationDelegate, NSWindowDelegate {
     @objc func showAbout() {
         let alert = NSAlert()
         alert.messageText = "About Scratchpad"
-        alert.informativeText = "© 2026 Stuart Thomas (stuart.thomas@mac.com)\nLicensed under MIT License\nCopyright, Designs and Patents Act 1988"
+        alert.informativeText = "© 2026 Stuart Thomas (stuart.thomas@mac.com)
+Licensed under MIT License
+Copyright, Designs and Patents Act 1988"
         alert.alertStyle = .informational
         NSApp.activate(ignoringOtherApps: true)
         alert.runModal()
@@ -200,7 +213,10 @@ class AppDelegate: NSObject, NSApplicationDelegate, NSWindowDelegate {
     @objc func showHelp() {
         let alert = NSAlert()
         alert.messageText = "Scratchpad Help"
-        alert.informativeText = "• Press ⇧⌘X from anywhere to quickly hide or show the scratchpad.\n• Text pasted here is automatically saved and stripped of any formatting.\n• Click the menu bar icon to toggle the window without the shortcut.\n• Press Escape while editing to hide the window."
+        alert.informativeText = "• Press ⇧⌘X from anywhere to quickly hide or show the scratchpad.
+• Text pasted here is automatically saved and stripped of any formatting.
+• Click the menu bar icon to toggle the window without the shortcut.
+• Press Escape while editing to hide the window."
         alert.alertStyle = .informational
         NSApp.activate(ignoringOtherApps: true)
         alert.runModal()
